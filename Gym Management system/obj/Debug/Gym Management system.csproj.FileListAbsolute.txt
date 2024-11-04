@@ -1,0 +1,96 @@
+D:\Project\Gym management system\Gym Management system\bin\Debug\Database1.mdf
+D:\Project\Gym management system\Gym Management system\bin\Debug\Database1_log.ldf
+D:\Project\Gym management system\Gym Management system\bin\Debug\Gym Management system.exe.config
+D:\Project\Gym management system\Gym Management system\bin\Debug\Gym Management system.exe
+D:\Project\Gym management system\Gym Management system\bin\Debug\Gym Management system.pdb
+D:\Project\Gym management system\Gym Management system\obj\Debug\Gym Management system.csproj.AssemblyReference.cache
+D:\Project\Gym management system\Gym Management system\obj\Debug\Gym_Management_system.LoginForm.resources
+D:\Project\Gym management system\Gym Management system\obj\Debug\Gym_Management_system.RegistrationForm.resources
+D:\Project\Gym management system\Gym Management system\obj\Debug\Gym_Management_system.Properties.Resources.resources
+D:\Project\Gym management system\Gym Management system\obj\Debug\Gym Management system.csproj.GenerateResource.cache
+D:\Project\Gym management system\Gym Management system\obj\Debug\Gym Management system.csproj.CoreCompileInputs.cache
+D:\Project\Gym management system\Gym Management system\obj\Debug\Gym Management system.exe
+D:\Project\Gym management system\Gym Management system\obj\Debug\Gym Management system.pdb
+D:\Project\Gym management system\Gym Management system\obj\Debug\Gym_Management_system.MainForm.resources
+D:\Project\Gym management system\Gym Management system\obj\Debug\Gym_Management_system.AccountForm.resources
+D:\Project\Gym management system\Gym Management system\bin\Debug\Database2.mdf
+D:\Project\Gym management system\Gym Management system\bin\Debug\Database2_log.ldf
+D:\Project\Gym management system\Gym Management system\obj\Debug\Gym_Management_system.MembershipForm.resources
+D:\Project\Gym management system\Gym Management system\obj\Debug\Gym_Management_system.ChangePasswordForm.resources
+D:\Project\Gym management system\Gym Management system\obj\Debug\Gym_Management_system.UpdateContactInfoForm.resources
+D:\Project\Gym management system\Gym Management system\obj\Debug\Gym_Management_system.BookingForm.resources
+D:\Project\Gym management system\Gym Management system\bin\Debug\Azure.Core.dll
+D:\Project\Gym management system\Gym Management system\bin\Debug\Azure.Identity.dll
+D:\Project\Gym management system\Gym Management system\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Project\Gym management system\Gym Management system\bin\Debug\Microsoft.Data.SqlClient.dll
+D:\Project\Gym management system\Gym Management system\bin\Debug\Microsoft.Data.Tools.Components.dll
+D:\Project\Gym management system\Gym Management system\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTesting.dll
+D:\Project\Gym management system\Gym Management system\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTestingAdapter.dll
+D:\Project\Gym management system\Gym Management system\bin\Debug\Microsoft.Identity.Client.dll
+D:\Project\Gym management system\Gym Management system\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Project\Gym management system\Gym Management system\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+D:\Project\Gym management system\Gym Management system\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Project\Gym management system\Gym Management system\bin\Debug\Microsoft.IdentityModel.Logging.dll
+D:\Project\Gym management system\Gym Management system\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+D:\Project\Gym management system\Gym Management system\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Project\Gym management system\Gym Management system\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+D:\Project\Gym management system\Gym Management system\bin\Debug\System.Buffers.dll
+D:\Project\Gym management system\Gym Management system\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\Project\Gym management system\Gym Management system\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Project\Gym management system\Gym Management system\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+D:\Project\Gym management system\Gym Management system\bin\Debug\System.IO.FileSystem.AccessControl.dll
+D:\Project\Gym management system\Gym Management system\bin\Debug\System.Memory.Data.dll
+D:\Project\Gym management system\Gym Management system\bin\Debug\System.Memory.dll
+D:\Project\Gym management system\Gym Management system\bin\Debug\System.Numerics.Vectors.dll
+D:\Project\Gym management system\Gym Management system\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Project\Gym management system\Gym Management system\bin\Debug\System.Security.AccessControl.dll
+D:\Project\Gym management system\Gym Management system\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+D:\Project\Gym management system\Gym Management system\bin\Debug\System.Security.Permissions.dll
+D:\Project\Gym management system\Gym Management system\bin\Debug\System.Security.Principal.Windows.dll
+D:\Project\Gym management system\Gym Management system\bin\Debug\System.Text.Encodings.Web.dll
+D:\Project\Gym management system\Gym Management system\bin\Debug\System.Text.Json.dll
+D:\Project\Gym management system\Gym Management system\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Project\Gym management system\Gym Management system\bin\Debug\System.ValueTuple.dll
+D:\Project\Gym management system\Gym Management system\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Project\Gym management system\Gym Management system\bin\Debug\Azure.Core.xml
+D:\Project\Gym management system\Gym Management system\bin\Debug\Azure.Identity.xml
+D:\Project\Gym management system\Gym Management system\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Project\Gym management system\Gym Management system\bin\Debug\Microsoft.Data.SqlClient.pdb
+D:\Project\Gym management system\Gym Management system\bin\Debug\Microsoft.Data.SqlClient.xml
+D:\Project\Gym management system\Gym Management system\bin\Debug\Microsoft.Identity.Client.xml
+D:\Project\Gym management system\Gym Management system\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+D:\Project\Gym management system\Gym Management system\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+D:\Project\Gym management system\Gym Management system\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\Project\Gym management system\Gym Management system\bin\Debug\Microsoft.IdentityModel.Logging.xml
+D:\Project\Gym management system\Gym Management system\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+D:\Project\Gym management system\Gym Management system\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+D:\Project\Gym management system\Gym Management system\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+D:\Project\Gym management system\Gym Management system\bin\Debug\System.Buffers.xml
+D:\Project\Gym management system\Gym Management system\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\Project\Gym management system\Gym Management system\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Project\Gym management system\Gym Management system\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+D:\Project\Gym management system\Gym Management system\bin\Debug\System.IO.FileSystem.AccessControl.xml
+D:\Project\Gym management system\Gym Management system\bin\Debug\System.Memory.xml
+D:\Project\Gym management system\Gym Management system\bin\Debug\System.Memory.Data.xml
+D:\Project\Gym management system\Gym Management system\bin\Debug\System.Numerics.Vectors.xml
+D:\Project\Gym management system\Gym Management system\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Project\Gym management system\Gym Management system\bin\Debug\System.Security.AccessControl.xml
+D:\Project\Gym management system\Gym Management system\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+D:\Project\Gym management system\Gym Management system\bin\Debug\System.Security.Permissions.xml
+D:\Project\Gym management system\Gym Management system\bin\Debug\System.Security.Principal.Windows.xml
+D:\Project\Gym management system\Gym Management system\bin\Debug\System.Text.Encodings.Web.xml
+D:\Project\Gym management system\Gym Management system\bin\Debug\System.Text.Json.xml
+D:\Project\Gym management system\Gym Management system\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Project\Gym management system\Gym Management system\bin\Debug\System.ValueTuple.xml
+D:\Project\Gym management system\Gym Management system\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+D:\Project\Gym management system\Gym Management system\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+D:\Project\Gym management system\Gym Management system\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+D:\Project\Gym management system\Gym Management system\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+D:\Project\Gym management system\Gym Management system\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+D:\Project\Gym management system\Gym Management system\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+D:\Project\Gym management system\Gym Management system\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\Project\Gym management system\Gym Management system\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+D:\Project\Gym management system\Gym Management system\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\Project\Gym management system\Gym Management system\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\Project\Gym management system\Gym Management system\obj\Debug\Gym Mana.2A7E70F5.Up2Date
+D:\Project\Gym management system\Gym Management system\obj\Debug\Gym_Management_system.AdminForm.resources
